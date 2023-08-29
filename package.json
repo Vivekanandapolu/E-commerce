@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "name": "web-development-20230812t173635z-001",
+  "version": "1.0.0",
+  "main": "callback.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivekanandapolu/E-commerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Vivekanandapolu/E-commerce/issues"
+  },
+  "homepage": "https://github.com/Vivekanandapolu/E-commerce#readme",
+  "description": ""
+}
